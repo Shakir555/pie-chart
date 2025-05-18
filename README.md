@@ -1,6 +1,9 @@
 # Pie Chart
-![Pie Chart](pie_chart.png)
 This OpenGL-based pie chart visualization is designed to provide an interactive and dynamic graphical repesentatio of data with support of functionality using the GLUT (OpenGL Utility Toolkit) framwork.
+
+<div align="center">
+  <img src="pie_chart.png" alt="Pie Chart" width="400"/>
+</div>
 
 # Pie Chart Features
 - Rotate the pie chart in real-time.
