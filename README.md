@@ -1,4 +1,5 @@
 # Pie Chart
+![Pie Chart](pie_chart.png)
 This OpenGL-based pie chart visualization is designed to provide an interactive and dynamic graphical repesentatio of data with support of functionality using the GLUT (OpenGL Utility Toolkit) framwork.
 
 # Pie Chart Features
