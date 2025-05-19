@@ -1,5 +1,5 @@
 # Pie Chart
-This OpenGL-based pie chart visualization is designed to provide an interactive and dynamic graphical repesentatio of data with support of functionality using the GLUT (OpenGL Utility Toolkit) framwork.
+This OpenGL-based pie chart visualization is designed to provide an interactive and dynamic graphical repesentation of data with support of functionality using the GLUT (OpenGL Utility Toolkit) framwork.
 
 <div align="center">
   <img src="pie_chart.png" alt="Pie Chart" width="400"/>
